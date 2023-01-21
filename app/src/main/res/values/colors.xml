@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="red3">#E57373</color>
+    <color name="red">#F44336</color>
+    <color name="blue">#1976D2</color>
+    <color name="blue11">#C0ECFF</color>
+    <color name="grey">#AAAAAA</color>
+    <color name="blue3">#EDFAFF</color>
+    <color name="blue22">#8BDBFF</color>
+    <color name="green">#04990A</color>
+
+    <color name="green1">#baf6cb</color>
+    <color name="green2">#1de9b6</color>
+
+    <color name="blue1">#84ffff</color>
+    <color name="blue2">#03a9f4</color>
+
+    <color name="yellow1">#ffff8d</color>
+    <color name="yellow2">#ffeb3b</color>
+
+    <color name="red1">#ff8a80</color>
+    <color name="red2">#ff5252</color>
+
+    <color name="orange1">#E64A19</color>
+    <color name="orange2">#FF5722</color>
+    <color name="orange3">#FF9800</color>
+    <color name="orange4">#F57C00</color>
+    <color name="orange5">#FF8A65</color>
+    <color name="orange6">#D84315</color>
+    <color name="orange7">#FFB74D</color>
+    <color name="orange8">#FFA726</color>
+
+    <color name="yellow11">#FFE500</color>
+    <color name="yellow22">#FFB600</color>
+
+
+    <color name="green11">#85F10A</color>
+    <color name="green22">#65AA15</color>
+
+
+
+</resources>
